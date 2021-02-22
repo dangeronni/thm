@@ -1,0 +1,3 @@
+SITE CPFR /home/kenobi/.ssh/id_rsa
+SITE CPTO /var/tmp/id_rsa
+END
